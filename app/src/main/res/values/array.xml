@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Categories array-->
+    <string-array name="categories">
+        <item>Agriculture</item>
+        <item>Architecture</item>
+        <item><![CDATA[Art & Photography]]></item>
+        <item>Biographics</item>
+        <item><![CDATA[Business & Finance]]></item>
+        <item>Children Books</item>
+        <item>Computer Science</item>
+        <item><![CDATA[Cooking,Food & Wine]]></item>
+        <item>Dictionary</item>
+        <item>Drama</item>
+        <item>Encyclopedias</item>
+        <item>Engineering</item>
+        <item>Entrance</item>
+        <item>Health</item>
+        <item>Medical</item>
+        <item>Music</item>
+        <item>Religion</item>
+        <item>School Books</item>
+        <item>Transportation and Travel</item>
+        <item>Other</item>
+
+    </string-array>
+
+    <!--  NGO name Array-->
+    <string-array name="ngonames">
+
+        <item>Sarvahitey</item>
+        <item>YouthClub Foundation</item>
+        <item>Edubright</item>
+        <item>Prastaar</item>
+
+    </string-array>
+
+
+    <!-- NGO logo array  -->
+</resources>

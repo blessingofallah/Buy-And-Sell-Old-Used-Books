@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home_fragment"
+            android:icon="@drawable/ic_home_black_48dp"
+            android:title="@string/home"
+            android:checked="true"
+            />
+        <item
+            android:id="@+id/nav_my_ads_fragment"
+            android:icon="@drawable/ic_perm_identity_black_48dp"
+            android:title="@string/my_ads" />
+
+
+        <item
+            android:id="@+id/profile_fragment"
+            android:icon="@drawable/ic_person_black_24dp"
+            android:title="@string/profile" />
+
+        <item
+            android:id="@+id/chat_fragment"
+            android:icon="@drawable/ic_message_black_48dp"
+            android:title="@string/chats" />
+
+
+        <item
+            android:id="@+id/donate_fragment"
+            android:icon="@drawable/ic_card_giftcard_white_36dp"
+            android:title="@string/donation"
+            ></item>
+
+    </group>
+
+    <item android:title="@string/signout">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/signout"
+                    android:icon="@drawable/logout"
+                    android:title="@string/signout" />
+
+            </group>
+        </menu>
+    </item>
+</menu>

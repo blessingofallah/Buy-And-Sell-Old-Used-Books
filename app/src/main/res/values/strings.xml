@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">Book-ऐ-Istan: Buy and Sell Used Books</string>
+    <string name="facebook_app_id">1652686304805358</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="Login">Login</string>
+    <string name="tagline">The strange wistfulness of used books</string>
+    <string name="NoAccount">No account yet? Create one</string>
+    <string name="Logo">Logo</string>
+    <string name="Name">Name</string>
+    <string name="create_account">Create Account</string>
+    <string name="donation">Donate Books</string>
+    <string name="already_member">Already a member? Login</string>
+    <string name="btn_forgot_password">Forgot your password?</string>
+    <string name="lbl_forgot_password">Forgot password?</string>
+    <string name="btn_back"><![CDATA[<< Back]]></string>
+    <string name="books_details">Books Details</string>
+    <string name="books_quantity">Books Quantites</string>
+    <string name="done">Done</string>
+    <string name="forgot_password_msg">We just need your registered Email Id to sent you password reset instructions.</string>
+
+    <string name="btn_reset_password">Reset Password</string>
+    <string name="app_icon">
+            Book-ऐ-Istan:
+        Buy and Sell Used Books
+    </string>
+
+    <string name="home">Home</string>
+    <string name="my">My Ads</string>
+    <string name="my_ads">My Ads</string>
+    <string name="favorites">Favorites</string>
+    <string name="sell_your_item">Sell your item</string>
+    <string name="profile_fragment">Profile</string>
+    <string name="signout">Sign Out</string>
+
+    <string name="welcome">Welcome </string>
+    <string name="signoutconfirmation">Are you sure to sign out?</string>
+
+    <string name="nav_open_drawer">Open navigation drawer</string>
+    <string name="nav_close_drawer">Close navigation drawer</string>
+
+    <string name="photo">Take or choose 8 photos</string>
+    <string name="photo_added">Added %1$d of 8 photos</string>
+    <string name="attach_images_title">Please choose photos</string>
+    <string name="select_images">Select Images</string>
+    <string name="selected"> selected</string>
+    <item name="image_id" type="id" />
+
+    <string name="chats">Chats</string>
+    <string name="title">Title</string>
+    <string name="profile">Profile</string>
+    <string name="address">Address</string>
+    <string name="phone">Phone</string>
+    <string name="location">Enter Location Manually</string>
+    <string name="cancel">cancel</string>
+
+
+    <string name="price">Price (Rs)</string>
+
+    <string name="description">Description</string>
+
+    <string name="mobile">Phone</string>
+
+    <string name="submit">Submit</string>
+
+    <string name="noads">Ads list is empty</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="ad_details">Ad details</string>
+    <string name="delete_confirmation">Are you sure to delete this Ad.</string>
+    <string name="please">Please Check internet Connection and try again</string>
+    <string name="reload">Reload</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="user_successfully_added">User successfully added!</string>
+    <string name="user_unable_to_add">Unable to add user!</string>
+    <string name="adding_user_to_db">Adding user to database.</string>
+    <string name="loading">Loading</string>
+    <string name="please_wait">Please wait...</string>
+
+    <string name="font_family_roboto_light">sans-serif-thin</string>
+    <string name="type_a_message">Type a message...</string>
+    <string name="action_logout">Logout</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="logout">Logout</string>
+    <string name="are_you_sure">Are you sure ?</string>
+
+</resources>

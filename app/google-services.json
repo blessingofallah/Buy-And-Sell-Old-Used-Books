@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "853371035628",
+    "firebase_url": "https://bookbuyselling.firebaseio.com",
+    "project_id": "bookbuyselling",
+    "storage_bucket": "bookbuyselling.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853371035628:android:6b25fa2b0f58390c",
+        "android_client_info": {
+          "package_name": "com.example.pintooaggarwal.bookbuyselling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853371035628-94mop6tr451pv4la8ranu7vi0pbb6t4p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pintooaggarwal.bookbuyselling",
+            "certificate_hash": "61e0b34bd56d44a90cfc0b73de25d1a528bce4a4"
+          }
+        },
+        {
+          "client_id": "853371035628-2dfpdpqtodha3qmvh54rmd8vf1q9kob5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5tOMafNyj6os_jBJD8vO5HIALNPJz8UI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853371035628-2dfpdpqtodha3qmvh54rmd8vf1q9kob5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853371035628:android:ec8592eb3589b091",
+        "android_client_info": {
+          "package_name": "com.baniya.pintooaggarwal.bookbuyselling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853371035628-2h5liihfkk5gna5r494afdn9uhu5qnlc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.baniya.pintooaggarwal.bookbuyselling",
+            "certificate_hash": "61e0b34bd56d44a90cfc0b73de25d1a528bce4a4"
+          }
+        },
+        {
+          "client_id": "853371035628-2dfpdpqtodha3qmvh54rmd8vf1q9kob5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5tOMafNyj6os_jBJD8vO5HIALNPJz8UI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853371035628-2dfpdpqtodha3qmvh54rmd8vf1q9kob5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
